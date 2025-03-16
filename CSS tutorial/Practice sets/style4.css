@@ -1,0 +1,54 @@
+#navbar{
+    height: 60px;
+    background-color: #0f1111;
+    color: white;
+}
+span{
+    color: orange;
+    font-size: 25px;
+}
+button{
+    background-color: #f08804;
+    color: white;
+}
+#navbar>div{
+    border: 100px;
+    border-color: white;
+}
+body{
+    background-color:blueviolet;
+}
+a{
+    color: white;
+    margin-right: 100px;
+}
+.content{
+    height: 400px;
+    width: 200px; 
+}
+#div1{
+    background-color: rgba(255,0,0,0.5);
+    border: 2px solid black;
+    height: 100px;
+    width: 100px;
+    display: inline-block;
+}
+#div2{
+    background-color: rgba(25,20,0,0.5);
+    border: 2px solid black;
+    height: 100px;
+    width: 100px;
+    display: inline-block;
+}
+#div3{
+    background-color: rgba(25,205,10,0.5);
+    border: 2px solid black;
+    height: 100px;
+    width: 100px;
+    display: inline-block;
+}
+footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+}

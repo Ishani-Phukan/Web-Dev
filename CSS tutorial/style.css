@@ -1,0 +1,20 @@
+p{
+    text-align: end;
+}
+h1{
+    text-align: center;
+    text-decoration: underline;
+    text-decoration-color:red ;
+    text-decoration-style: wavy;
+    font-weight: 200;
+    font-family:Georgia, 'Times New Roman', Times, serif ;
+}
+a{
+    text-decoration: none;
+}
+#one{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 10px;
+    line-height: 100px;
+    text-transform:uppercase
+}

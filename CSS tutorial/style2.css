@@ -1,0 +1,14 @@
+div{
+    background-color: blue;
+    display: inline;
+    margin: 25px;
+    padding: 25px;
+    height: 100px;
+    width: 100px ;
+}
+button{
+    display: block;
+}
+#box2{
+    display: none;
+}

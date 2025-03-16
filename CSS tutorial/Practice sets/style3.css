@@ -1,0 +1,33 @@
+#ps3-1{
+    height: 100px;
+    width: 100px;
+    background-color: rgb(81, 230, 81);
+    border-radius: 50%;
+}
+
+/*For the navigation bar*/
+#navbar{
+    height: 60px;
+    background-color: #0f1111;
+    color: white;
+}
+span{
+    color: orange;
+    font-size: 25px;
+}
+button{
+    background-color: #f08804;
+    color: white;
+}
+div{
+    border: 100px;
+    border-color: white;
+}
+body{
+    background-color:blueviolet;
+}
+a{
+    color: white;
+    margin-right: 100px;
+}
+ 

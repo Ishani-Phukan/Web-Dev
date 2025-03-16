@@ -1,0 +1,29 @@
+div{
+    height: 350px;
+    width: 120px;
+    border-width: 2px;
+    border-color: black;
+    background-color: antiquewhite;
+    margin: 5px;
+}
+#red{
+    background-color: red;
+    height: 50px;
+    width: 50px;
+    padding: 30px;
+    border-radius: 50%;
+}
+#yellow{
+    background-color: yellow;
+    height: 50px;
+    width: 50px;
+    padding: 30px;
+    border-radius: 50%;
+}
+#green{
+    background-color: green;
+    height: 50px;
+    width: 50px;
+    padding: 30px;
+    border-radius: 50%;
+}
